@@ -15,6 +15,10 @@ OrderAPP is built with the **MEAN** stack:
 
 ---
 
+## Installation
+
+---
+
 ## Goal
 
 The primary goal of OrderAPP is to provide an easy-to-use digital menu solution for small businesses, allowing them to replace traditional paper menus with an interactive, digital alternative. This digital menu can improve ordering efficiency, reduce wait times, and offer a modern customer experience.
@@ -27,3 +31,15 @@ The primary goal of OrderAPP is to provide an easy-to-use digital menu solution 
 - **Order Management**: Allows customers to place orders directly from their devices.
 - **Customization Options**: Customers can customize their orders (e.g., coffee strength, ice cream toppings).
 - **Admin Dashboard**: Business owners can update menu items, track orders, and monitor customer interactions.
+
+## Future Enhancements
+
+- **Order History**: Track customer order history for personalized recommendations.
+- **Real-time Notifications**: Notify customers about their order status.
+- **Multiple Payment Integrations**: Support for various payment gateways.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
