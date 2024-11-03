@@ -17,7 +17,7 @@ OrderAPP is built with the **MEAN** stack:
 
 ## Installation
 Navigate to root folder and run
-**npm run start **
+** npm run start **
 
 ---
 
